@@ -7,7 +7,7 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
+01-src copy
 .DS_Store
 dist
 dist-ssr
