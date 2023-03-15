@@ -1,5 +1,5 @@
+
+
 <template>
-    <div>
-        商品列表
-    </div>
+     <div>chanping1</div>
 </template>
